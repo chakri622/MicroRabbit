@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\MicroRabbit.Transfer.Domain\MicroRabbit.Transfer.Domain.csproj" />
     <ProjectReference Include="..\MircoRabbit.Banking.Domain\MircoRabbit.Banking.Domain.csproj" />
   </ItemGroup>
 
